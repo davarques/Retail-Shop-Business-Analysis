@@ -85,8 +85,9 @@ Act as business analyst consultants to analyze the data and propose solutions fo
 - Lowest Sales: July.
 - Top Export Markets: U.S., Australia, UK, Germany, France.
 
+## Interactive Dashboards Proposal 📊
 
+#### Sales Insights Dashboard ([Looker link](https://lookerstudio.google.com/reporting/1ced46e7-5472-4e27-9673-03ee0a85f042))
 
-
-
+<img src="https://github.com/user-attachments/assets/0e8de23c-b228-4be6-badf-690b9b7b7ef2" alt="Screenshot 2024-09-19 at 15:04:40" width="700">
 
