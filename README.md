@@ -48,3 +48,45 @@ Act as business analyst consultants to analyze the data and propose solutions fo
 - `Cost`: Total cost of the sale.
 - `Revenue`: Total revenue from the sale.
 
+## Exploratory Data Analysis 🔬
+
+#### Product Categories Sold in the Bike Shop:
+
+- 🚴‍♂️ **Bikes** (Road, Mountain, Touring)
+- ⚙️ **Accessories** (Tubes, Tires, Helmets, Bike Racks, Bottles, etc.)
+- 👕 **Clothing** (Shorts, Vests, Caps, Gloves, Jerseys, etc.)
+
+#### Revenue stream distribution by product category: 
+
+<img src="https://github.com/user-attachments/assets/e5245e69-224c-4811-9859-401ac0c9a061" alt="Screenshot 2024-09-19 at 15:04:40" width="300">
+
+<img src="https://github.com/user-attachments/assets/1c0e4204-2031-4d57-8c28-9f82f4f19973" alt="Screenshot 2024-09-19 at 15:04:40" width="400">
+
+#### Sales Insights Over Time: 
+
+<img src="https://github.com/user-attachments/assets/043b5189-df77-439d-a375-f1eafdc2fca0" alt="Screenshot 2024-09-19 at 15:04:40" width="800">
+
+#### Customer Insighst (Age & Location): 
+
+<img src="https://github.com/user-attachments/assets/f04398bb-8448-45ae-b87a-eabd175133b5" alt="Screenshot 2024-09-19 at 15:04:40" width="700">
+
+### Exploratory Key Takeaways 🔎
+
+##### Product Insights
+- 70% of revenue comes from bike sales.
+- Road bikes account for 54% of bike revenue.
+
+##### Sales Performance
+- Total Revenue (2011-2016): $84.8M.
+- Compound Annual Growth Rate (CAGR): 13.2%, showing strong growth.
+
+##### Customer Insights
+- Peak Sales: June & December (pre-summer, holiday demand).
+- Lowest Sales: July.
+- Top Export Markets: U.S., Australia, UK, Germany, France.
+
+
+
+
+
+
