@@ -89,5 +89,11 @@ Act as business analyst consultants to analyze the data and propose solutions fo
 
 #### Sales Insights Dashboard ([Looker link](https://lookerstudio.google.com/reporting/1ced46e7-5472-4e27-9673-03ee0a85f042))
 
-<img src="https://github.com/user-attachments/assets/0e8de23c-b228-4be6-badf-690b9b7b7ef2" alt="Screenshot 2024-09-19 at 15:04:40" width="700">
+<img src="https://github.com/user-attachments/assets/0e8de23c-b228-4be6-badf-690b9b7b7ef2" alt="Screenshot 2024-09-19 at 15:04:40" width="800">
+
+#### Customer Insights Dashboard ([Tableau link](https://public.tableau.com/views/BikeShopCustomerInsightDash/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+<img src="https://github.com/user-attachments/assets/6d194fdf-3ba4-4f1c-be0e-1144e3c8cd8d" alt="Screenshot 2024-09-19 at 15:04:40" width="800">
+
+
 
